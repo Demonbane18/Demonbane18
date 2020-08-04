@@ -13,7 +13,8 @@
 [<img align="left" alt="Demonbane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Demonbane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Demonbane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Demonbane's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/fusheenn)
+[<img align="left" alt="Demonbane | Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+
 
 
 <br />
@@ -64,6 +65,7 @@
 
 <img align="left" alt="Demonbane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Demonbane&show_icons=true&hide_border=true" />
 
+[dev]: https://dev.to/fusheenn
 [twitter]: https://twitter.com/fusheenn
 [youtube]: https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw
 [instagram]: https://www.instagram.com/demonbane18/?hl=en
