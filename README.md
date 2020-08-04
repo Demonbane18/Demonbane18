@@ -1,5 +1,5 @@
 ![Alt Text](https://coverfiles.alphacoders.com/737/73706.jpg)
-### Hi there, I'm Demonbane 
+### Hi there, I'm Demonbane18! 
 
 ## I'm a Computer Engineering Student, Game Dev and Programmer!
 - 🔭 I’m currently working on a game project with the Project Brass Community called Orchestria: Brass Fate!
