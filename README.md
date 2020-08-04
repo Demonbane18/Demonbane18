@@ -42,11 +42,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+- [Bongo Cat & Pink Panther Theme](https://www.youtube.com/watch?v=wQydW7tGxVc)
+- [Janggo Bongo Bonggo Janggo](https://www.youtube.com/watch?v=FcPHClo97hA)
+- [bongo gas gas gas](https://www.youtube.com/watch?v=bS8yxsOAiO8)
+- [thorned sword ability test](https://www.youtube.com/watch?v=SgejerzLd7k)
+- [Spudcraft PVP Arena Trailer[CTM][minigames]1.6.2]](https://www.youtube.com/watch?v=GxrJhuOWOQQ)
 <!-- YOUTUBE:END -->
 
 ### 🎮 Orchestria: Brass Fate
