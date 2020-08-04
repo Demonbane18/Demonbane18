@@ -56,6 +56,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Title Screen](https://dev.to/fusheenn/title-screen-2d0j)
 - [Test](https://dev.to/fusheenn/test-3pbk)
 <!-- BLOG-POST-LIST:END -->
 
