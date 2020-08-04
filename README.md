@@ -68,7 +68,11 @@
 ---
 
 
-<img align="left" alt="Demonbane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Demonbane18&show_icons=true&hide_border=true" />
+![Demonbane18's github stats](https://github-readme-stats.vercel.app/api?username=Demonbane18&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonbane18&layout=compact)](https://github.com/Demonbane18/github-readme-stats)
+
 
 [dev]: https://dev.to/fusheenn
 [twitter]: https://twitter.com/fusheenn
