@@ -37,8 +37,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />][godot]
 [<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />][unity]
 [<img align="left" alt="HTML5" width="26px" src="https://w7.pngwing.com/pngs/802/382/png-transparent-gamemaker-studio-gamemaker-studio-video-game-game-maker-language-game-engine-games-game-angle-text.png" />][gamemaker]
-[<img align="left" alt="HTML5" width="35px" src="https://f0.pngfuel.com/png/422/130/rpg-maker-mv-rpg-maker-2003-rpg-maker-vx-rpg-maker-xp-role-playing-video-game-others-png-clip-art.png" />][rpgmaker]
-[<img align="left" alt="HTML5" width="35px" src="https://d289qh4hsbjjw7.cloudfront.net/rpgmaker-20130522223546811/files/program-logo-rpg-maker-vx-ace.png" />][rpgmaker]
+[<img align="left" alt="HTML5" width="26px" src="https://aileenrt.files.wordpress.com/2017/03/mv-logo.png?w=193" />][rpgmaker]
+[<img align="left" alt="HTML5" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRGyDQnMh26sWOaiiSwaS2fj8NSpd4FuaTjQ&usqp=CAU" />][rpgmaker]
 <br />
 <br />
 
