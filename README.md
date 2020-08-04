@@ -71,7 +71,8 @@
 ![Demonbane18's github stats](https://github-readme-stats.vercel.app/api?username=Demonbane18&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonbane18&layout=compact)](https://github.com/Demonbane18/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
+
 
 
 [dev]: https://dev.to/fusheenn
