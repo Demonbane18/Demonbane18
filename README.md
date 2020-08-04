@@ -37,8 +37,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />][godot]
 [<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />][unity]
 [<img align="left" alt="HTML5" width="26px" src="https://w7.pngwing.com/pngs/802/382/png-transparent-gamemaker-studio-gamemaker-studio-video-game-game-maker-language-game-engine-games-game-angle-text.png" />][gamemaker]
-[<img align="left" alt="HTML5" width="26px" src="https://f0.pngfuel.com/png/422/130/rpg-maker-mv-rpg-maker-2003-rpg-maker-vx-rpg-maker-xp-role-playing-video-game-others-png-clip-art.png" />][rpgmaker]
-[<img align="left" alt="HTML5" width="26px" src="https://d289qh4hsbjjw7.cloudfront.net/rpgmaker-20130522223546811/files/program-logo-rpg-maker-vx-ace.png" />][rpgmaker]
+[<img align="left" alt="HTML5" width="35px" src="https://f0.pngfuel.com/png/422/130/rpg-maker-mv-rpg-maker-2003-rpg-maker-vx-rpg-maker-xp-role-playing-video-game-others-png-clip-art.png" />][rpgmaker]
+[<img align="left" alt="HTML5" width="35px" src="https://d289qh4hsbjjw7.cloudfront.net/rpgmaker-20130522223546811/files/program-logo-rpg-maker-vx-ace.png" />][rpgmaker]
 <br />
 <br />
 
@@ -68,13 +68,13 @@
 ---
 
 
-<img align="left" alt="Demonbane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Demonbane&show_icons=true&hide_border=true" />
+<img align="left" alt="Demonbane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Demonbane18&show_icons=true&hide_border=true" />
 
 [dev]: https://dev.to/fusheenn
 [twitter]: https://twitter.com/fusheenn
 [youtube]: https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw
 [instagram]: https://www.instagram.com/demonbane18/?hl=en
-[linkedin]: https://linkedin.com/in/Demonbane
+[linkedin]: https://www.linkedin.com/in/john-paul-fusin-35846714a/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
