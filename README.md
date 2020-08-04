@@ -9,7 +9,7 @@
 
 ### My Social Media:
 
-[<img align="left" alt="Demonbane | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]("https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)
+[<img align="left" alt="Demonbane | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Demonbane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Demonbane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Demonbane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -72,10 +72,9 @@
 
 <img align="left" alt="Demonbane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Demonbane&show_icons=true&hide_border=true" />
 
-[website]: https://Demonbane.com
-[twitter]: https://twitter.com/Demonbane
-[youtube]: https://youtube.com/Demonbane
-[instagram]: https://instagram.com/Demonbane
+[twitter]: https://twitter.com/fusheenn
+[youtube]: https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw
+[instagram]: https://www.instagram.com/demonbane18/?hl=en
 [linkedin]: https://linkedin.com/in/Demonbane
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
