@@ -82,10 +82,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Demonbane18's Github Stats" src="github-readme-stats.demonbane18.vercel.app
-/api?username=Demonbane18&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Demonbane18r&show_icons=true&hide_border=true" />
 
-[![Top Langs](github-readme-stats.demonbane18.vercel.app
+[![Top Langs]("https://github-readme-stats.codestackr.vercel.app
 /api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
 
 </details>
