@@ -68,6 +68,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 ### 🎮 Orchestria: Brass Fate (Game that I am working on)
 <!-- Orchestria:START -->
 [<img align="left" alt="Brass | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeb]
@@ -77,7 +78,9 @@
 [<img align="left" alt="Brass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagramb]
 [<img align="left" alt="Brass | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.iob]
 [<img align="left" alt="Brass | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discordb]
+
 <!-- Orchestria:END -->
+
 ---
 
 <details>
