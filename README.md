@@ -1,6 +1,9 @@
 ![Alt Text](https://coverfiles.alphacoders.com/737/73706.jpg)
 ### Hi there, I'm Demonbane18! 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fusheenN?style=social)
+
+![Discord Follow](https://img.shields.io/github/followers/Demonbane18?style=social)
+
 ![Discord Server](https://img.shields.io/discord/737766475716100127?label=Project%20Brass%20Fan%20Club&logo=Discord&style=social)
 ## I'm a Computer Engineering Student, Game Dev and Programmer!
 - 🔭 I’m currently working on a game project with the Project Brass Community called Orchestria: Brass Fate!
