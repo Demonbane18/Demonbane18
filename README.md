@@ -15,7 +15,8 @@
 [<img align="left" alt="Demonbane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Demonbane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Demonbane | Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-[<img align="left" alt="Demonbane | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.io]
+[<img align="left" alt="Demonbane | GameJolt" width="22px" src=https://d23wybgr07mqxm.cloudfront.net/wp-content/uploads/2017/01/25225716/Game-Jolt.png />][gamejolt]
+[<img align="left" alt="Demonbane | Itch,ioe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.io]
 
 
 <br />
@@ -68,7 +69,7 @@
 ### 🎮 Orchestria: Brass Fate (Game that I am working on)
 <!-- Orchestria:START -->
 [<img align="left" alt="Brass | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeb]
-[<img align="left" alt="Brass | GameJolt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gamejolt.svg" />][gamejoltb]
+[<img align="left" alt="Brass | GameJolt" width="22px" src=https://d23wybgr07mqxm.cloudfront.net/wp-content/uploads/2017/01/25225716/Game-Jolt.png />][gamejoltb]
 [<img align="left" alt="Brass | Gofundme" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gofundme.svg" />][gofundme]
 [<img align="left" alt="Brass | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterb]
 [<img align="left" alt="Brass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagramb]
@@ -90,6 +91,7 @@
 [![Top Langs](github-readme-stats.demonbane18.vercel.app
 /api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
 
+[gamejolt]: https://gamejolt.com/@Demonbane
 [discordb]: https://discord.gg/Daya8r
 [gamejoltb]:https://gamejolt.com/games/OrchestraTheBrassFate/516526
 [twitterb]: https://twitter.com/BrassFate
