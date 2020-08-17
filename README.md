@@ -81,7 +81,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="github-readme-stats.demonbane18.vercel.app
+  <img align="left" alt="Demonbane18's Github Stats" src="github-readme-stats.demonbane18.vercel.app
 /api?username=demonbane18&show_icons=true&hide_border=true" />
 
 </details>
