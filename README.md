@@ -78,7 +78,6 @@
 [<img align="left" alt="Brass | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.iob]
 [<img align="left" alt="Brass | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discordb]
 <!-- Orchestria:END -->
-
 ---
 
 <details>
