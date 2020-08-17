@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love playing games with my homies
 
 ### My Social Media:
-
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch.io.svg" />][itch.io]
 [<img align="left" alt="Demonbane | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Demonbane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Demonbane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,10 +31,13 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="Php" width="26px" src="[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Php" width="26px" src="[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]" />][java]
+[<img align="left" alt="Dosboxp" width="26px" src="[<img align="left" alt="Dosbox" width="26px" src="https://www.slashcoding.com/wp-content/uploads/2013/09/DOSBox_logo.gif" />]" />][java]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />][godot]
 [<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />][unity]
 [<img align="left" alt="HTML5" width="26px" src="https://w7.pngwing.com/pngs/802/382/png-transparent-gamemaker-studio-gamemaker-studio-video-game-game-maker-language-game-engine-games-game-angle-text.png" />][gamemaker]
@@ -78,8 +81,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
 
-
-
+[java]: https://www.java.com/en/
+[itch.io]: https://demonbane18.itch.io/
 [dev]: https://dev.to/fusheenn
 [twitter]: https://twitter.com/fusheenn
 [youtube]: https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw
