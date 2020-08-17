@@ -71,9 +71,9 @@
 [<img align="left" alt="Brass | GameJolt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gamejolt.svg" />][gamejoltb]
 [<img align="left" alt="Brass | Gofundme" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gofundme.svg" />][gofundme]
 [<img align="left" alt="Brass | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterb]
-[<img align="left" alt="Brass | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedinb]
 [<img align="left" alt="Brass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagramb]
-[<img align="left" alt="Brass | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.iob]
+[<img align="left" alt="Brass | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.iob]
+[<img align="left" alt="Brass | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discordb]
 <!-- Orchestria:END -->
 
 ---
@@ -90,7 +90,13 @@
 [![Top Langs](github-readme-stats.demonbane18.vercel.app
 /api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
 
-[gamejoltb]:
+[discordb]: https://discord.gg/Daya8r
+[gamejoltb]:https://gamejolt.com/games/OrchestraTheBrassFate/516526
+[twitterb]: https://twitter.com/BrassFate
+[gofundme]: https://gf.me/u/yjvcdc
+[youtubeb]: https://www.youtube.com/channel/UCeAmXw-Awq4jTC8uA4-p7hw
+[itch.iob]: https://theynamiteteam.itch.io/
+[instagramb]: https://www.instagram.com/orchestra_the_brass_fate/
 [dosbox]: https://www.dosbox.com/
 [java]: https://www.java.com/en/
 [itch.io]: https://demonbane18.itch.io/
