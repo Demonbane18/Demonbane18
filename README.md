@@ -82,14 +82,13 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Demonbane18's Github Stats" src="github-readme-stats.demonbane18.vercel.app
-/api?username=Demonbane18&show_icons=true&hide_border=true" />
+  <img align="left" alt="Demonbane18's Github Stats" src="github-readme-stats-gilt-pi.vercel.app/api?username=Demonbane18&show_icons=true&hide_border=true" />
+
+[![Top Langs](github-readme-stats-gilt-pi.vercel.app/api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
 
 </details>
 
 
-[![Top Langs](github-readme-stats.demonbane18.vercel.app
-/api/top-langs/?username=Demonbane18)](https://github.com/Demonbane18/github-readme-stats)
 
 [gamejolt]: https://gamejolt.com/@Demonbane
 [discordb]: https://discord.gg/Daya8r
