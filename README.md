@@ -53,11 +53,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [when you won against Okayu on 51 Worldwide Classics (kusa)](https://www.youtube.com/watch?v=TLmdUbu6rrg)
 - [Korone Car Shearer Dance](https://www.youtube.com/watch?v=AMJRxMjQW00)
 - [Bongo Cat & Pink Panther Theme](https://www.youtube.com/watch?v=wQydW7tGxVc)
 - [Janggo Bongo Bonggo Janggo](https://www.youtube.com/watch?v=FcPHClo97hA)
 - [bongo gas gas gas](https://www.youtube.com/watch?v=bS8yxsOAiO8)
-- [thorned sword ability test](https://www.youtube.com/watch?v=SgejerzLd7k)
 <!-- YOUTUBE:END -->
 ---
 
