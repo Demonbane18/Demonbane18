@@ -53,7 +53,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [when you get tons of yubis](https://www.youtube.com/watch?v=TLmdUbu6rrg)
+- [korone fortnite default dance](https://www.youtube.com/watch?v=TLmdUbu6rrg)
 - [Valkyrie is worth it](https://www.youtube.com/watch?v=KfN-FieG6uY)
 - [Korone Car Shearer Dance](https://www.youtube.com/watch?v=AMJRxMjQW00)
 - [Bongo Cat & Pink Panther Theme](https://www.youtube.com/watch?v=wQydW7tGxVc)
