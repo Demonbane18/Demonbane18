@@ -53,9 +53,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [korone fortnite default dance](https://www.youtube.com/watch?v=TLmdUbu6rrg)
+- [【MMD】when it's time to cut some yubis](https://www.youtube.com/watch?v=TLmdUbu6rrg)
 - [Valkyrie is worth it](https://www.youtube.com/watch?v=KfN-FieG6uY)
-- [Korone Car Shearer Dance](https://www.youtube.com/watch?v=AMJRxMjQW00)
+- [【MMD】Korone Car Shearer Dance](https://www.youtube.com/watch?v=AMJRxMjQW00)
 - [Bongo Cat & Pink Panther Theme](https://www.youtube.com/watch?v=wQydW7tGxVc)
 - [Janggo Bongo Bonggo Janggo](https://www.youtube.com/watch?v=FcPHClo97hA)
 <!-- YOUTUBE:END -->
