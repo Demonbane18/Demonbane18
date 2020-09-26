@@ -88,7 +88,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3461](https://github.com//simple-icons/simple-icons/issues/3461) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+1. ❗️ Opened issue [#3461](https://github.com/simple-icons/simple-icons/issues/3461) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 2. undefined
 3. undefined
 4. undefined
