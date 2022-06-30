@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on a game project with the Project Brass Community called Orchestria: Brass Fate!
 - 🌱 I’m currently learning about Godot and Node js
 - 👯 I like making games and apps
-- 🥅 2021 Goals: Be successful with my investments in crypto and NFT
-- ⚡ Fun fact: I love playing games and coding
+- 🥅 2022 Goals: Be happy
+- ⚡ Fun fact: I love playing games and coding and also Crypto
 
 ### My Social Media:
 
