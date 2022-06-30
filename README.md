@@ -40,7 +40,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="Dosbox" width="26px" src="https://www.slashcoding.com/wp-content/uploads/2013/09/DOSBox_logo.gif" />][dosbox]
 [<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />][godot]
 [<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />][unity]
 [<img align="left" alt="HTML5" width="26px" src="https://w7.pngwing.com/pngs/802/382/png-transparent-gamemaker-studio-gamemaker-studio-video-game-game-maker-language-game-engine-games-game-angle-text.png" />][gamemaker]
