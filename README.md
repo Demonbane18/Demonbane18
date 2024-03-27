@@ -4,7 +4,7 @@
 ![Github Follow](https://img.shields.io/github/followers/Demonbane18?style=social)
 
 ## I'm a Computer Engineer and Web Developer
-- 🔭 I’m currently working on a game project with the Project Brass Community called Orchestria: Brass Fate!
+- 🔭 I’m currently working nextjs web apps
 - 🌱 I’m currently learning about Svelte and Rust
 - 👯 I like making games and apps
 - 🥅 2024 Goals: Learn more
@@ -17,7 +17,6 @@
 [<img align="left" alt="Demonbane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Demonbane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Demonbane | Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-[<img align="left" alt="Demonbane | GameJolt" width="22px" src=https://d23wybgr07mqxm.cloudfront.net/wp-content/uploads/2017/01/25225716/Game-Jolt.png />][gamejolt]
 [<img align="left" alt="Demonbane | Itch,ioe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.io]
 
 
@@ -25,26 +24,26 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />][godot]
-[<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />][unity]
-[<img align="left" alt="HTML5" width="26px" src="https://w7.pngwing.com/pngs/802/382/png-transparent-gamemaker-studio-gamemaker-studio-video-game-game-maker-language-game-engine-games-game-angle-text.png" />][gamemaker]
-[<img align="left" alt="HTML5" width="26px" src="https://aileenrt.files.wordpress.com/2017/03/mv-logo.png?w=193" />][rpgmaker]
-[<img align="left" alt="HTML5" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRGyDQnMh26sWOaiiSwaS2fj8NSpd4FuaTjQ&usqp=CAU" />][rpgmaker]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />]
+[<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://w7.pngwing.com/pngs/802/382/png-transparent-gamemaker-studio-gamemaker-studio-video-game-game-maker-language-game-engine-games-game-angle-text.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://aileenrt.files.wordpress.com/2017/03/mv-logo.png?w=193" />]
+[<img align="left" alt="HTML5" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRGyDQnMh26sWOaiiSwaS2fj8NSpd4FuaTjQ&usqp=CAU" />]
 <br />
 <br />
 
