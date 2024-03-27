@@ -2,13 +2,13 @@
 ### Hi there, I'm Demonbane18! 
 ![Twitter Follow](https://img.shields.io/twitter/follow/fusheenN?style=social)
 ![Github Follow](https://img.shields.io/github/followers/Demonbane18?style=social)
-![Discord Server](https://img.shields.io/discord/737766475716100127?label=Project%20Brass%20Fan%20Club&logo=Discord&style=social)
-## I'm a Computer Engineering Student, Game Dev and Programmer!
+
+## I'm a Computer Engineer and Web Developer
 - 🔭 I’m currently working on a game project with the Project Brass Community called Orchestria: Brass Fate!
-- 🌱 I’m currently learning about Godot and Node js
+- 🌱 I’m currently learning about Svelte and Rust
 - 👯 I like making games and apps
-- 🥅 2022 Goals: Be happy
-- ⚡ Fun fact: I love playing games and coding and also Crypto
+- 🥅 2024 Goals: Learn more
+- ⚡ Fun fact: Water is wet.
 
 ### My Social Media:
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 My Youtube Channel
 <!-- YOUTUBE:START -->
 - [【MMD】when it's time to cut some yubis](https://www.youtube.com/watch?v=TLmdUbu6rrg)
 - [Valkyrie is worth it](https://www.youtube.com/watch?v=KfN-FieG6uY)
@@ -68,18 +68,6 @@
 
 ---
 
-### 🎮 Orchestria: Brass Fate (Game that I am working on)
-<!-- Orchestria:START -->
-[<img align="left" alt="Brass | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtubeb]
-[<img align="left" alt="Brass | GameJolt" width="22px" src=https://d23wybgr07mqxm.cloudfront.net/wp-content/uploads/2017/01/25225716/Game-Jolt.png />][gamejoltb]
-[<img align="left" alt="Brass | Gofundme" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gofundme.svg" />][gofundme]
-[<img align="left" alt="Brass | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterb]
-[<img align="left" alt="Brass | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagramb]
-[<img align="left" alt="Brass | Itch.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" />][itch.iob]
-[<img align="left" alt="Brass | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discordb]
-
-<!-- Orchestria:END -->
-<br/>
 
 ---
 
@@ -105,29 +93,9 @@
 
 </details>
 
-
-
-[gamejolt]: https://gamejolt.com/@Demonbane
-[discordb]: https://discord.gg/Daya8r
-[gamejoltb]:https://gamejolt.com/games/OrchestraTheBrassFate/516526
-[twitterb]: https://twitter.com/BrassFate
-[gofundme]: https://gf.me/u/yjvcdc
-[youtubeb]: https://www.youtube.com/channel/UCeAmXw-Awq4jTC8uA4-p7hw
-[itch.iob]: https://theynamiteteam.itch.io/
-[instagramb]: https://www.instagram.com/orchestra_the_brass_fate/
-[dosbox]: https://www.dosbox.com/
-[java]: https://www.java.com/en/
 [itch.io]: https://demonbane18.itch.io/
 [dev]: https://dev.to/fusheenn
 [twitter]: https://twitter.com/fusheenn
 [youtube]: https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw
 [instagram]: https://www.instagram.com/demonbane18/?hl=en
 [linkedin]: https://www.linkedin.com/in/john-paul-fusin-35846714a/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[godot]: https://godotengine.org/
-[unity]: https://unity.com/
-[gamemaker]: https://www.yoyogames.com/gamemaker
-[rpgmaker]: https://www.rpgmakerweb.com/
