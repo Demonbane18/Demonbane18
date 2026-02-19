@@ -7,7 +7,7 @@
 - 🔭 I’m currently working nextjs web apps
 - 🌱 I’m currently learning about Svelte and Rust
 - 👯 I like making games and apps
-- 🥅 2024 Goals: Learn more
+- 🥅 2026 Goals: Learn more
 - ⚡ Fun fact: Water is wet.
 
 ### My Social Media:
