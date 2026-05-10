@@ -1,21 +1,20 @@
-![Banner](https://coverfiles.alphacoders.com/737/73706.jpg)
 
 # Hi there, I'm Demonbane18! 👋
 
 ![X Follow](https://img.shields.io/twitter/follow/fusheenn?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/Demonbane18?style=social)
 
-## Computer Engineer & Full-Stack Web Developer
+## AI Automation Specialist & Software Engineer
 
-**Next.js Web Developer** | **Game Developer** | **Computer Engineer**
+**AI Automation Specialist** | **Software Engineer** | **Agentic Engineering** | **Harness Engineering**
 
-Passionate **Computer Engineer** and **Full-Stack Web Developer** specializing in modern **Next.js** applications, responsive web experiences, and interactive games. Currently building production-ready web apps while mastering **Svelte** and **Rust** to create high-performance, scalable solutions.
+Passionate **AI Automation Specialist** and **Software Engineer** specializing in **Agentic Engineering** and **Harness Engineering**. I design and build intelligent automation systems, autonomous AI agents, and production-grade **Next.js** applications that scale effortlessly. Currently focused on creating high-performance, AI-powered solutions while mastering **Svelte** and **Rust**.
 
-- 🔭 **Currently working on:** Modern **Next.js** web applications
-- 🌱 **Currently learning:** **Svelte**, **Rust**, and advanced web technologies
-- 👯 **I enjoy:** Building games with Unity, Godot & GameMaker + practical web apps
-- 🥅 **2026 Goals:** Master Svelte & Rust, ship multiple full-stack projects, contribute to open-source
-- ⚡ **Fun fact:** Water is wet… but my code stays dry! 💧
+- 🔭 **Currently working on:** AI-powered **Next.js** web applications and autonomous agent systems
+- 🌱 **Currently learning:** **Svelte**, **Rust**, advanced **Agentic Engineering**, and AI orchestration tools
+- 👯 **I enjoy:** Building intelligent games, AI automations, and practical full-stack apps
+- 🥅 **2026 Goals:** Master **Agentic Engineering** & **Harness Engineering**, ship production AI automations, contribute to open-source AI projects
+- ⚡ **Fun fact:** Water is wet… but my AI agents stay autonomous! 🤖
 
 ### Connect With Me
 [<img align="left" alt="Demonbane18 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />][youtube]
@@ -74,21 +73,18 @@ Passionate **Computer Engineer** and **Full-Stack Web Developer** specializing i
 
 <details>
   <summary>🔥 Recent GitHub Activity</summary>
- 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
 
 <details>
   <summary>📊 GitHub Stats</summary>
- 
 <img align="left" alt="Demonbane18's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Demonbane18&show_icons=true&hide_border=true&theme=radical" />
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demonbane18&layout=compact&theme=radical)](https://github.com/Demonbane18)
 </details>
 
 [itch.io]: https://demonbane18.itch.io/
 [dev]: https://dev.to/fusheenn
 [twitter]: https://twitter.com/fusheenn
-[youtube]: https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw
+[youtube]: [https://www.youtube.com/channel/UCcFTwnaXbygmGxIuTZsdcQw](https://www.youtube.com/@jpfusin)
 [linkedin]: https://www.linkedin.com/in/john-paul-fusin-35846714a/
