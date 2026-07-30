@@ -1,0 +1,29 @@
+name: Update latest YouTube videos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-youtube-readme
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    name: Update README from YouTube feed
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update latest videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: YOUTUBE
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCOfPW18z-hoW85o-D00xEJA"
+          max_post_count: 5
+          commit_message: "docs: update latest YouTube videos"
