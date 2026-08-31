@@ -123,11 +123,11 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI Tips and Tricks #1 - Gemini in Chrome](https://www.youtube.com/shorts/l86Smyhw_XY)
 - [Trying out Mixture of Agents on Hermes Desktop [TAGALOG]](https://www.youtube.com/watch?v=daQUTh_UI4w)
 - [Gemma 4 12B Local LLM: Run AI on Your Laptop! [Tagalog]](https://www.youtube.com/watch?v=gqejz2zYsDw)
 - [GLM 5.2 + Z-code vs Claude vs Codex: One-Shot Prompt Testing[ Tagalog]](https://www.youtube.com/watch?v=T5zqAC7FM6A)
 - [OpenRouter Fusion vs Fable 5: Better For Less? [TAGALOG]](https://www.youtube.com/watch?v=HD8YUiGs06o)
-- [Xiaomi MiMo Code: Open Source AI Coding Agent with Free Model? [TAGALOG]](https://www.youtube.com/watch?v=Z3SYdx0LHYo)
 <!-- YOUTUBE:END -->
 
 ➡️ [Watch more videos on Harness Engineer](https://www.youtube.com/@harness.engineer)
